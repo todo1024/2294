@@ -1,2 +1,205 @@
 # 2294
 2022国外CR8.1超写实渲染教程
+### 微:NoBug1024 
+
+
+课程介绍：
+
+〖课程目录〗:
+
+- ├──01. 课程  
+- |   ├──001_1 6月21日.srt  82.92kb
+- |   ├──001_2 6月21日.ts  717.68M
+- |   ├──001_2 光影基础.srt  219.66kb
+- |   ├──001_2 光影基础.ts  1.49G
+- |   ├──001_3 Afterparty.srt  40.54kb
+- |   ├──001_3 Afterparty.ts  478.71M
+- |   ├──002_2 6月22日.srt  27.63kb
+- |   ├──002_2 6月22日.ts  244.08M
+- |   ├──002_2 室内环境.srt  177.25kb
+- |   ├──002_2 室内环境.ts  1.70G
+- |   ├──002_3 6月23日.srt  40.51kb
+- |   ├──002_3 6月23日.ts  322.22M
+- |   ├──002_3 Afterparty.srt  43.12kb
+- |   ├──002_3 Afterparty.ts  555.89M
+- |   ├──003_1 6月24日.srt  39.93kb
+- |   ├──003_1 6月24日.ts  318.36M
+- |   ├──003_2 CR室内太阳光.srt  151.27kb
+- |   ├──003_2 CR室内太阳光.ts  2.46G
+- |   ├──003_3 Afterparty.srt  81.46kb
+- |   ├──003_3 Afterparty.ts  454.32M
+- |   ├──004_1  6月27日.srt  67.96kb
+- |   ├──004_2  6月27日.ts  577.81M
+- |   ├──004_2 VRay人造光1.srt  65.50kb
+- |   ├──004_2 VRay人造光1.ts  2.19G
+- |   ├──004_2 VRay人造光2.srt  47.54kb
+- |   ├──004_2 VRay人造光2.ts  1.34G
+- |   ├──004_3  Afterparty.srt  42.30kb
+- |   ├──004_3  Afterparty.ts  605.98M
+- |   ├──005_1 6月28日.srt  63.12kb
+- |   ├──005_1 6月28日.ts  763.79M
+- |   ├──005_2 Fstorm 环境和太阳.srt  141.91kb
+- |   ├──005_2 Fstorm 环境和太阳.ts  2.47G
+- |   ├──005_3  afterparty.srt  81.56kb
+- |   ├──005_3  afterparty.ts  697.19M
+- |   ├──006_1 7 月 1 日.srt  66.54kb
+- |   ├──006_1 7 月 1 日.ts  324.56M
+- |   ├──006_2 Corona室内太阳灯.srt  150.04kb
+- |   ├──006_2 Corona室内太阳灯.ts  2.28G
+- |   ├──006_3 After party.srt  39.18kb
+- |   ├──006_3 After party.ts  321.02M
+- |   ├──007_1 7 月 4 日.srt  46.69kb
+- |   ├──007_1 7 月 4 日.ts  596.46M
+- |   ├──007_2 Vray 室内 HDRI 阳光明媚的早晨.srt  180.77kb
+- |   ├──007_2 Vray 室内 HDRI 阳光明媚的早晨.ts  2.93G
+- |   ├──007_3  Afterparty.srt  104.61kb
+- |   ├──007_3  Afterparty.ts  1.12G
+- |   ├──008_0 7 月 5 日.srt  48.69kb
+- |   ├──008_0 7 月 5 日.ts  405.37M
+- |   ├──008_1 7 月 6 日.srt  55.83kb
+- |   ├──008_1 7 月 6 日.ts  580.75M
+- |   ├──008_2 绿色氛围场景第 1 部分.srt  109.23kb
+- |   ├──008_2 绿色氛围场景第 1 部分.ts  1.80G
+- |   ├──008_2 绿色氛围场景第 2 部分.srt  128.50kb
+- |   ├──008_2 绿色氛围场景第 2 部分.ts  1.61G
+- |   ├──009_0 7 月 7 日.srt  36.20kb
+- |   ├──009_0 7 月 7 日.ts  430.76M
+- |   ├──009_1 7 月 8 日.srt  42.45kb
+- |   ├──009_1 7 月 8 日.ts  371.88M
+- |   ├──009_2 Corona地下酒吧.srt  131.56kb
+- |   ├──009_2 Corona地下酒吧.ts  1.41G
+- |   ├──009_3 After party.srt  77.70kb
+- |   ├──009_3 After party.ts  683.83M
+- |   ├──010_1 7月11日.srt  69.67kb
+- |   ├──010_1 7月11日.ts  648.56M
+- |   ├──010_2 FStorm Arch 太阳 夏季.srt  190.40kb
+- |   ├──010_2 FStorm Arch 太阳 夏季.ts  3.71G
+- |   ├──010_3 Afterparty.srt  78.21kb
+- |   ├──010_3 Afterparty.ts  515.35M
+- |   ├──011_1 7月12日.srt  54.80kb
+- |   ├──011_1 7月12日.ts  670.16M
+- |   ├──011_2 Corona Arch 秋季.srt  194.84kb
+- |   ├──011_2 Corona Arch 秋季.ts  2.32G
+- |   ├──011_3 Afterparty.srt  41.52kb
+- |   ├──011_3 Afterparty.ts  282.26M
+- |   ├──012_0 透视匹配 7.13 .srt  15.33kb
+- |   ├──012_0 透视匹配 7.13 .ts  175.08M
+- |   ├──012_1 7月14日.srt  62.79kb
+- |   ├──012_1 7月14日.ts  675.66M
+- |   ├──012_2 7月15日.srt  30.21kb
+- |   ├──012_2 7月15日.ts  446.57M
+- |   ├──012_3 FStorm Arch 傍晚下雨.srt  107.04kb
+- |   ├──012_3 FStorm Arch 傍晚下雨.ts  3.32G
+- |   ├──012_4 Afterparty.srt  88.96kb
+- |   ├──012_4 Afterparty.ts  629.58M
+- |   ├──013_1 7月18日.srt  64.36kb
+- |   ├──013_1 7月18日.ts  984.55M
+- |   ├──013_2 Corona Arch 夏日 第1部分.srt  134.75kb
+- |   ├──013_2 Corona Arch 夏日 第1部分.ts  2.97G
+- |   ├──013_2 Corona Arch 夏日 第2部分.srt  51.85kb
+- |   ├──013_2 Corona Arch 夏日 第2部分.ts  979.04M
+- |   ├──013_3 Afterparty.srt  57.79kb
+- |   ├──013_3 Afterparty.ts  652.44M
+- |   ├──014_1 7月20日.srt  29.07kb
+- |   ├──014_1 7月20日.ts  468.20M
+- |   ├──014_2 FStorm夏日.srt  142.17kb
+- |   ├──014_2 FStorm夏日.ts  2.20G
+- |   ├──014_3 Afterparty.srt  122.60kb
+- |   ├──014_3 Afterparty.ts  762.46M
+- |   ├──015_0 7月21日.srt  39.32kb
+- |   ├──015_0 7月21日.ts  665.11M
+- |   ├──015_1 7月22日.srt  41.80kb
+- |   ├──015_1 7月22日.ts  540.10M
+- |   ├──015_2 Arch Corona 冬季.srt  138.05kb
+- |   ├──015_2 Arch Corona 冬季.ts  2.42G
+- |   ├──015_3 Afterparty.srt  99.06kb
+- |   ├──015_3 Afterparty.ts  683.50M
+- |   ├──016 7月26日.srt  56.64kb
+- |   ├──016 7月26日.ts  508.22M
+- |   ├──017 8 月 1 日.srt  53.62kb
+- |   ├──017 8 月 1 日.ts  516.74M
+- |   ├──018 8 月 5 日.srt  66.90kb
+- |   └──018 8 月 5 日.ts  626.40M
+- ├──02. 学员问题  
+- |   ├──0.jpg  33.58kb
+- |   ├──01 Marina Vondrak.srt  16.36kb
+- |   ├──01 Marina Vondrak.ts  379.67M
+- |   ├──02 Irina melikhova.srt  17.31kb
+- |   ├──02 Irina melikhova.ts  446.57M
+- |   ├──03 Tanya kyrychok.srt  14.60kb
+- |   ├──03 Tanya kyrychok.ts  701.71M
+- |   ├──05 Abdelrhman Mawad.srt  17.05kb
+- |   ├──05 Abdelrhman Mawad.ts  580.31M
+- |   ├──06 Nazar Krupka.srt  23.51kb
+- |   ├──06 Nazar Krupka.ts  1.25G
+- |   ├──07 Gabriel Niemeyer.srt  3.84kb
+- |   ├──07 Gabriel Niemeyer.ts  125.74M
+- |   ├──08 Pooja Patil.srt  15.26kb
+- |   ├──08 Pooja Patil.ts  175.08M
+- |   ├──09 Andre Santos.srt  24.36kb
+- |   ├──09 Andre Santos.ts  642.80M
+- |   ├──10 Kateryna Mazur.srt  19.18kb
+- |   ├──10 Kateryna Mazur.ts  669.07M
+- |   ├──13 Piyamit Buppachat.srt  22.87kb
+- |   ├──13 Piyamit Buppachat.ts  739.31M
+- |   ├──14 Marina Vondrak.srt  15.86kb
+- |   └──14 Marina Vondrak.ts  985.52M
+- ├──03. 基础  
+- |   ├──基础中的战斗机  
+- |   |   ├──fstorm rt mod 工具栏.ts  21.89M
+- |   |   ├──工具栏上的按钮.ts  3.55M
+- |   |   ├──间距工具.ts  3.59M
+- |   |   ├──模型网格线颜色.ts  7.38M
+- |   |   ├──如何加载热键.ts  4.10M
+- |   |   ├──如何删除模型编辑框.ts  1.99M
+- |   |   ├──视口背景.ts  22.10M
+- |   |   ├──视口剪裁.ts  2.35M
+- |   |   ├──四元菜单.ts  13.25M
+- |   |   ├──纹理显示质量.ts  2.07M
+- |   |   ├──修改器集.ts  3.09M
+- |   |   ├──在视口中更改阴影.ts  1.47M
+- |   |   ├──展UV_独特纹理.ts  191.24M
+- |   |   ├──阵列.ts  26.91M
+- |   |   └──轴约束工具栏.ts  2.44M
+- |   ├──MD_餐巾纸.srt  10.66kb
+- |   ├──MD_餐巾纸.ts  328.97M
+- |   ├──MD_窗帘.srt  7.21kb
+- |   ├──MD_窗帘.ts  95.28M
+- |   ├──MD_豆包椅.srt  7.25kb
+- |   ├──MD_豆包椅.ts  109.73M
+- |   ├──MD_简介.srt  10.70kb
+- |   ├──MD_简介.ts  46.11M
+- |   ├──简单Forest pack_介绍.srt  14.62kb
+- |   ├──简单Forest pack_介绍.ts  400.87M
+- |   ├──透视匹配_室内.srt  4.87kb
+- |   ├──透视匹配_室内.ts  78.48M
+- |   ├──透视匹配_室外.srt  16.63kb
+- |   ├──透视匹配_室外.ts  377.65M
+- |   ├──透视匹配_注意事项.srt  21.11kb
+- |   ├──透视匹配_注意事项.ts  321.49M
+- |   ├──展UV_基础.srt  12.54kb
+- |   └──展UV_基础.ts  174.97M
+- ├──04. 材质&灯光  
+- |   ├──大理石.srt  6.08kb
+- |   ├──大理石.ts  70.36M
+- |   ├──金属.srt  6.64kb
+- |   ├──金属.ts  76.81M
+- |   ├──蕨类植物_megascans.srt  17.49kb
+- |   ├──蕨类植物_megascans.ts  464.35M
+- |   ├──晴天_1.srt  27.82kb
+- |   ├──晴天_1.ts  388.77M
+- |   ├──晴天_2.srt  5.35kb
+- |   ├──晴天_2.ts  87.50M
+- |   ├──树叶.srt  15.40kb
+- |   └──树叶.ts  268.69M
+- └──05. Files_场景  
+- |   ├──drive-download-20220726T002057Z-001.zip  455.78M
+- |   ├──drive-download-20220726T002149Z-001.zip  18.15M
+- |   ├──drive-download-20220726T002221Z-001.zip  240.52M
+- |   ├──drive-download-20220726T002231Z-001.zip  129.16M
+- |   ├──drive-download-20220726T002243Z-001.zip  45.58M
+- |   ├──drive-download-20220726T002326Z-001.zip  1.58G
+- |   ├──drive-download-20220726T002326Z-003.zip  1.34G
+- |   ├──For the lesson-20220726T002033Z-001.zip  586.91M
+- |   └──proxy-002.zip  2.84G
+- 
